@@ -1,0 +1,6 @@
+[project]
+name = "claudefiles"
+version = "0.1.0"
+description = "Claude Code instructions and skills, with examples rendered from steerage data"
+requires-python = ">=3.10"
+dependencies = []

@@ -1,0 +1,4 @@
+# extracted conversation/PR content is private and regenerable
+data/
+__pycache__/
+scrub.txt
