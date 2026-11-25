@@ -1,7 +1,6 @@
 ---
 name: push-pr
 description: Push the current branch to my fork and suggest a PR description. Only when I invoke it.
-disable-model-invocation: true
 ---
 
 # Push and suggest a PR
